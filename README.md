@@ -22,3 +22,6 @@ jupyter notebook gtfs_calgary.ipynb
 ## Structure
 - `gtfs_calgary.ipynb` - Main data pipeline and visualization notebook.
 - `data/ctrain.db` - SQLite database generated during execution.
+
+## Screenshot
+![Calgary Transit Map Preview](assets/map_preview.png)
